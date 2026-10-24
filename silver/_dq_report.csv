@@ -1,0 +1,13 @@
+metric,value
+bronze_rows,300
+rejected_rows,8
+duplicates_resolved,15
+silver_rows,277
+coffee_outliers_flagged,1
+null_birthday,5
+null_coffee_per_week,7
+null_favorite_drink,4
+null_device_os,0
+rejected_birthday_in_future,2
+rejected_city_unknown,4
+rejected_coffee_negative,2

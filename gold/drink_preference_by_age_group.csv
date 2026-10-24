@@ -1,0 +1,26 @@
+age_group,favorite_drink,students,pct_within_group
+20 or under,Tea,13,31.7
+20 or under,Coffee,11,26.8
+20 or under,Matcha,7,17.1
+20 or under,Water,5,12.2
+20 or under,Boba,4,9.8
+20 or under,unknown,1,2.4
+21-22,Coffee,23,35.9
+21-22,Tea,16,25.0
+21-22,Boba,15,23.4
+21-22,Matcha,7,10.9
+21-22,Water,2,3.1
+21-22,unknown,1,1.6
+23-24,Coffee,19,27.9
+23-24,Tea,16,23.5
+23-24,Boba,16,23.5
+23-24,Matcha,11,16.2
+23-24,Water,5,7.4
+23-24,unknown,1,1.5
+25+,Coffee,38,38.4
+25+,Tea,20,20.2
+25+,Boba,15,15.2
+25+,Matcha,15,15.2
+25+,Water,11,11.1
+unknown,Coffee,4,80.0
+unknown,unknown,1,20.0

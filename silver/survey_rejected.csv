@@ -1,0 +1,9 @@
+response_id,submitted_at,student_id,hometown,birthday,coffee_per_week,favorite_drink,device,reject_reason,_loaded_at,_source_file
+R0058,2026-10-21 09:02:54,S1135,-,25 March 2004,10,Coffee,ios,city_unknown,2026-10-24T03:46:30Z,bronze/class_survey_raw.csv
+R0060,2026-10-21 09:02:57,S1211,Jaksel,2003-07-07,-1,Matcha latte,samsung,coffee_negative,2026-10-24T03:46:30Z,bronze/class_survey_raw.csv
+R0130,2026-10-21 09:06:40,S1199,Mars,13/05/2005,6-7,kopi,Android,city_unknown,2026-10-24T03:46:30Z,bronze/class_survey_raw.csv
+R0151,2026-10-21 09:07:32,S1123,Semarang,2027-11-07,14,air putih,ios,birthday_in_future,2026-10-24T03:46:30Z,bronze/class_survey_raw.csv
+R0162,2026-10-21 09:08:04,S1098,Jakarta,Feb 23 2001,-2,latte,iphone,coffee_negative,2026-10-24T03:46:30Z,bronze/class_survey_raw.csv
+R0163,2026-10-21 09:08:04,S1262,n/a,22-01-2006,4 cups,Kopi susu,Android,city_unknown,2026-10-24T03:46:30Z,bronze/class_survey_raw.csv
+R0184,2026-10-21 09:09:04,S1178,Yogyakarta,2027-07-14,3,latte,samsung,birthday_in_future,2026-10-24T03:46:30Z,bronze/class_survey_raw.csv
+R0242,2026-10-21 09:11:54,S1009,asdf,06 November 2005,7,Kopi susu,android,city_unknown,2026-10-24T03:46:30Z,bronze/class_survey_raw.csv
